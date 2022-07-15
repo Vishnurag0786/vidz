@@ -1,0 +1,770 @@
+/* screen - frame-without-inner-elements */
+
+.frame-without-inner-elements {
+  background-color: var(--white);
+  height: 964px;
+  position: relative;
+  width: 1920px;
+}
+
+.frame-without-inner-elements .title {
+  color: var(--black);
+  font-weight: 700;
+  left: 540px;
+  position: absolute;
+  top: 165px;
+}
+
+.frame-without-inner-elements .text-1 {
+  left: 540px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 233px;
+}
+
+.frame-without-inner-elements .overlap-group1 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-8@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 77px;
+  left: 540px;
+  min-width: 1282px;
+  padding: 27px 34px;
+  position: absolute;
+  top: 295px;
+}
+
+.frame-without-inner-elements .buy-from {
+  letter-spacing: 0;
+  min-height: 22px;
+  min-width: 76px;
+}
+
+.frame-without-inner-elements .pay-with {
+  letter-spacing: 0;
+  margin-left: 197px;
+  min-height: 22px;
+  min-width: 70px;
+}
+
+.frame-without-inner-elements .avg-trade-speed {
+  letter-spacing: 0;
+  margin-left: 334px;
+  min-height: 22px;
+  min-width: 140px;
+}
+
+.frame-without-inner-elements .rate-per-bitcoin {
+  letter-spacing: 0;
+  margin-left: 163px;
+  min-height: 22px;
+  min-width: 123px;
+}
+
+.frame-without-inner-elements .vector-1 {
+  align-self: center;
+  height: 18px;
+  margin-left: 2px;
+  margin-top: 1.0px;
+  width: 18px;
+}
+
+.frame-without-inner-elements .group-4 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 18px;
+  margin-left: 12px;
+  margin-top: 1.0px;
+  min-width: 18px;
+  padding: 4.7px 2.7px;
+}
+
+.frame-without-inner-elements .group-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.4px;
+  min-height: 7px;
+  width: 5px;
+}
+
+.frame-without-inner-elements .rectangle-17 {
+  background-color: var(--black);
+  height: 1px;
+  width: 2px;
+}
+
+.frame-without-inner-elements .rectangle-18 {
+  background-color: var(--black);
+  height: 1px;
+  margin-top: 2px;
+  width: 4px;
+}
+
+.frame-without-inner-elements .rectangle-19 {
+  background-color: var(--black);
+  height: 1px;
+  margin-top: 2px;
+  width: 5px;
+}
+
+.frame-without-inner-elements .group {
+  align-items: flex-start;
+  display: flex;
+  height: 8px;
+  justify-content: center;
+  margin-left: 1px;
+  min-width: 6px;
+}
+
+.frame-without-inner-elements .overlap-group2 {
+  height: 10px;
+  margin-top: -1px;
+  position: relative;
+  width: 8px;
+}
+
+.frame-without-inner-elements .vector-2 {
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.frame-without-inner-elements .vector-3 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.frame-without-inner-elements .group-5 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 18px;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-width: 18px;
+  padding: 1.7px;
+}
+
+.frame-without-inner-elements .akar-iconsinfo-fill {
+  align-items: flex-end;
+  display: flex;
+  overflow: hidden;
+  width: 14px;
+}
+
+.frame-without-inner-elements .vector-4 {
+  height: 14px;
+  margin-bottom: 0;
+  width: 14px;
+}
+
+.frame-without-inner-elements .overlap-group {
+  height: 964px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.frame-without-inner-elements .footer {
+  background-color: var(--white);
+  box-shadow: 18px 4px 35px #00000005;
+  height: 843px;
+  left: 0;
+  position: absolute;
+  top: 120px;
+  width: 464px;
+}
+
+.frame-without-inner-elements .main-title {
+  background-color: var(--seashell);
+  border-radius: 8px;
+  height: 68px;
+  left: 49px;
+  position: absolute;
+  top: 189px;
+  width: 345px;
+}
+
+.frame-without-inner-elements .icchevron {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 356px;
+  padding: 0 5px;
+  position: absolute;
+  top: 211px;
+  transform: rotate(90.00deg);
+  width: 24px;
+}
+
+.frame-without-inner-elements .vector {
+  height: 9px;
+  transform: rotate(-90.00deg);
+  width: 14px;
+}
+
+.frame-without-inner-elements .background {
+  background-color: var(--seashell);
+  border-radius: 8px;
+  height: 68px;
+  left: 49px;
+  position: absolute;
+  top: 348px;
+  width: 345px;
+}
+
+.frame-without-inner-elements .all-payment {
+  left: 107px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 370px;
+  width: 109px;
+}
+
+.frame-without-inner-elements .bitcoin {
+  left: 107px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 211px;
+  width: 109px;
+}
+
+.frame-without-inner-elements .searchbox {
+  background-color: var(--seashell);
+  border-radius: 8px;
+  height: 68px;
+  left: 49px;
+  position: absolute;
+  top: 478px;
+  width: 345px;
+}
+
+.frame-without-inner-elements .any-amount {
+  background-color: transparent;
+  border: 0;
+  height: 22px;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 501px;
+  width: 109px;
+}
+
+.frame-without-inner-elements .any-amount::placeholder {
+  color: #78787899;
+}
+
+.frame-without-inner-elements .main-title-1 {
+  background-color: var(--seashell);
+  border-radius: 8px;
+  height: 68px;
+  left: 49px;
+  position: absolute;
+  top: 605px;
+  width: 345px;
+}
+
+.frame-without-inner-elements .icchevron-1 {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 352px;
+  padding: 0 5px;
+  position: absolute;
+  top: 628px;
+  transform: rotate(90.00deg);
+  width: 24px;
+}
+
+.frame-without-inner-elements .name {
+  left: 107px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 628px;
+  width: 109px;
+}
+
+.frame-without-inner-elements .main-title-2 {
+  height: 73px;
+  left: 47px;
+  position: absolute;
+  top: 709px;
+  width: 349px;
+}
+
+.frame-without-inner-elements .searchbox-1 {
+  background-color: var(--white);
+  border: 1px solid #e7e7e7;
+  height: 68px;
+  left: 49px;
+  position: absolute;
+  top: 844px;
+  width: 345px;
+}
+
+.frame-without-inner-elements .ictranscation {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  left: 346px;
+  padding: 2.5px 5.0px;
+  position: absolute;
+  top: 727px;
+  width: 32px;
+}
+
+.frame-without-inner-elements .vector-5 {
+  height: 27px;
+  width: 22px;
+}
+
+.frame-without-inner-elements .hamburgermenu {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  left: 332px;
+  min-height: 46px;
+  padding: 13.0px 9px;
+  position: absolute;
+  top: 359px;
+  width: 46px;
+}
+
+.frame-without-inner-elements .x01 {
+  background-color: var(--mountain-mist);
+  border-radius: 8px;
+  height: 3px;
+  width: 26px;
+}
+
+.frame-without-inner-elements .hamburgermenu-item {
+  background-color: var(--mountain-mist);
+  border-radius: 8px;
+  height: 3px;
+  margin-top: 5px;
+  width: 26px;
+}
+
+.frame-without-inner-elements .buy {
+  left: 71px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 161px;
+}
+
+.frame-without-inner-elements .clear-all {
+  left: 93px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 867px;
+}
+
+.frame-without-inner-elements .price {
+  left: 283px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 501px;
+}
+
+.frame-without-inner-elements .address {
+  color: transparent;
+  font-family: var(--font-family-futura_bk_bt-regular);
+  font-size: var(--font-size-m);
+  left: 71px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 263px;
+}
+
+.frame-without-inner-elements .span0 {
+  color: #a4a4a4;
+}
+
+.frame-without-inner-elements .span1 {
+  color: var(--international-orange);
+}
+
+.frame-without-inner-elements .pay-via {
+  left: 71px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 319px;
+}
+
+.frame-without-inner-elements .i-want-to-spend {
+  left: 71px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 448px;
+}
+
+.frame-without-inner-elements .offer-location {
+  left: 71px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 579px;
+}
+
+.frame-without-inner-elements .search {
+  height: 25px;
+  left: 71px;
+  position: absolute;
+  top: 369px;
+  width: 24px;
+}
+
+.frame-without-inner-elements .rectangle-44 {
+  border-radius: 8px;
+  height: 46px;
+  left: 267px;
+  position: absolute;
+  top: 489px;
+  width: 108px;
+}
+
+.frame-without-inner-elements .rectangle-45 {
+  border-radius: 8px;
+  height: 46px;
+  left: 50px;
+  position: absolute;
+  top: 855px;
+  width: 156px;
+}
+
+.frame-without-inner-elements .rectangle-46 {
+  border-radius: 8px;
+  height: 46px;
+  left: 237px;
+  position: absolute;
+  top: 855px;
+  width: 156px;
+}
+
+.frame-without-inner-elements .logo {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 71px;
+  position: absolute;
+  top: 211px;
+}
+
+.frame-without-inner-elements .overlap-group2-1 {
+  height: 25px;
+  margin-top: -0.5px;
+  position: relative;
+  width: 24px;
+}
+
+.frame-without-inner-elements .vector-6 {
+  height: 4px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 7px;
+}
+
+.frame-without-inner-elements .vector-7 {
+  height: 4px;
+  left: 9px;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.frame-without-inner-elements .vector-8 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.frame-without-inner-elements .apply {
+  left: 290px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 867px;
+  width: 53px;
+}
+
+.frame-without-inner-elements .group-36 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+  left: 75px;
+  position: absolute;
+  top: 628px;
+}
+
+.frame-without-inner-elements .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/ellipse-7-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 26px;
+  justify-content: flex-end;
+  margin-top: -0.75px;
+  min-width: 15px;
+  padding: 5.1px 4.2px;
+}
+
+.frame-without-inner-elements .ellipse-8 {
+  background-color: var(--white);
+  border-radius: 3.11px/3.18px;
+  height: 6px;
+  width: 6px;
+}
+
+.frame-without-inner-elements .rectangle-50 {
+  background-color: var(--white);
+  box-shadow: 0px 2px 2px #00000033;
+  height: 121px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.frame-without-inner-elements .vector-9 {
+  height: 8px;
+  left: 1772px;
+  position: absolute;
+  top: 58px;
+  width: 14px;
+}
+
+.frame-without-inner-elements .rectangle-40 {
+  border-radius: 8px;
+  height: 46px;
+  left: 1820px;
+  position: absolute;
+  top: 39px;
+  width: 46px;
+}
+
+.frame-without-inner-elements .icon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1831px;
+  position: absolute;
+  top: 50px;
+  width: 24px;
+}
+
+.frame-without-inner-elements .path {
+  height: 21px;
+  margin-top: -1px;
+  width: 26px;
+}
+
+.frame-without-inner-elements .path-1 {
+  height: 4px;
+  margin-right: 0;
+  margin-top: 2px;
+  width: 8px;
+}
+
+.frame-without-inner-elements .bgpic-2 {
+  height: 84px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 130px;
+}
+
+.frame-without-inner-elements .buy-1 {
+  left: 296px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 51px;
+}
+
+.frame-without-inner-elements .price-1 {
+  left: 1624px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 62px;
+}
+
+.frame-without-inner-elements .risgmailcom {
+  left: 1539px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 40px;
+}
+
+.frame-without-inner-elements .sell {
+  left: 422px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 51px;
+}
+
+.frame-without-inner-elements .dashboard {
+  left: 736px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 51px;
+}
+
+.frame-without-inner-elements .create-an-offer {
+  left: 552px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 51px;
+}
+
+.frame-without-inner-elements .rectangle-41 {
+  border-radius: 8px;
+  height: 46px;
+  left: 276px;
+  position: absolute;
+  top: 39px;
+  width: 98px;
+}
+
+.frame-without-inner-elements .rectangle-42 {
+  border-radius: 8px;
+  height: 46px;
+  left: 404px;
+  position: absolute;
+  top: 39px;
+  width: 98px;
+}
+
+.frame-without-inner-elements .rectangle-43 {
+  border-radius: 8px;
+  height: 46px;
+  left: 720px;
+  position: absolute;
+  top: 39px;
+  width: 160px;
+}
+
+.frame-without-inner-elements .rectangle-47 {
+  border-radius: 8px;
+  height: 46px;
+  left: 334px;
+  position: absolute;
+  top: 39px;
+  width: 40px;
+}
+
+.frame-without-inner-elements .vector-10 {
+  height: 8px;
+  left: 347px;
+  position: absolute;
+  top: 59px;
+  width: 14px;
+}
+
+.frame-without-inner-elements .rectangle-48 {
+  border-radius: 8px;
+  height: 46px;
+  left: 462px;
+  position: absolute;
+  top: 39px;
+  width: 40px;
+}
+
+.frame-without-inner-elements .vector-11 {
+  height: 8px;
+  left: 475px;
+  position: absolute;
+  top: 59px;
+  width: 14px;
+}
+
+.frame-without-inner-elements .rectangle-49 {
+  border-radius: 8px;
+  height: 46px;
+  left: 840px;
+  position: absolute;
+  top: 39px;
+  width: 40px;
+}
+
+.frame-without-inner-elements .vector-12 {
+  height: 8px;
+  left: 853px;
+  position: absolute;
+  top: 59px;
+  width: 14px;
+}
+
+.frame-without-inner-elements .ellipse-13 {
+  background-color: #c4c4c4;
+  border-radius: 23px;
+  height: 46px;
+  left: 1715px;
+  position: absolute;
+  top: 40px;
+  width: 46px;
+}
+
+.frame-without-inner-elements .group-33 {
+  align-items: flex-start;
+  background-color: var(--gray-nurse);
+  display: flex;
+  height: 844px;
+  left: 440px;
+  position: absolute;
+  top: 120px;
+}
+
+.frame-without-inner-elements .rectangle-22 {
+  background-color: var(--quick-silver);
+  height: 309px;
+  width: 24px;
+}
+
+.frame-without-inner-elements .group-34 {
+  align-items: flex-start;
+  background-color: var(--gray-nurse);
+  display: flex;
+  height: 24px;
+  left: 440px;
+  padding: 7.0px 6.0px;
+  position: absolute;
+  top: 121px;
+}
+
+.frame-without-inner-elements .polygon {
+  height: 9px;
+  width: 11px;
+}
+
+.frame-without-inner-elements .group-35 {
+  align-items: flex-start;
+  background-color: var(--gray-nurse);
+  display: flex;
+  height: 24px;
+  left: 440px;
+  padding: 7.0px 6.0px;
+  position: absolute;
+  top: 940px;
+}

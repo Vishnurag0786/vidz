@@ -1,0 +1,72 @@
+:root { 
+  --black: #000000;
+  --boulder: #787878;
+  --gallery: #f0eeee;
+  --gray-nurse: #eae9e9;
+  --international-orange: #f85207;
+  --mountain-mist: #969697;
+  --quick-silver: #a7a7a7;
+  --seashell: #f1f1f1;
+  --star-dust: #a0a0a0;
+  --white: #ffffff;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 18px;
+  --font-size-xl: 36px;
+ 
+  --font-family-futura_bk_bt-book: "Futura Bk BT-Book", Helvetica;
+  --font-family-futura_bk_bt-regular: "Futura Bk BT-Regular", Helvetica;
+  --font-family-futura_lt_bt-light: "Futura Lt BT-Light", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
+.h1 {
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.futurabkbt-book-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-futura_bk_bt-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.futuraltbt-light-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-futura_lt_bt-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.futuraltbt-light-boulder-18px {
+  color: var(--boulder);
+  font-family: var(--font-family-futura_lt_bt-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.futurabkbt-book-normal-international-orange-18px {
+  color: var(--international-orange);
+  font-family: var(--font-family-futura_bk_bt-book);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-quick-silver {
+  border: 1px solid var(--quick-silver);
+}
+
+.border-1px-star-dust {
+  border: 1px solid var(--star-dust);
+}
+
+.border-0-3px-black {
+  border: 0.3px solid var(--black);
+}
